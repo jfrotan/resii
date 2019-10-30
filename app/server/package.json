@@ -25,7 +25,7 @@
     "nodemon": "^1.15.0",
     "pg": "^7.4.1",
     "pg-hstore": "^2.3.2",
-    "sequelize": "^4.33.3",
+    "sequelize": "^5.15.1",
     "sqlite3": "^3.1.8"
   },
   "devDependencies": {
