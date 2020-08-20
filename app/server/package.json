@@ -4,7 +4,7 @@
   "description": "Resi: Finding Jobs Faster",
   "main": "app.js",
   "dependencies": {
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.2",
     "connect-mongo": "^2.0.1",
     "eslint": "^4.11.0",
